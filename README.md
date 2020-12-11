@@ -7,12 +7,19 @@
 - 🥅 2021 Goals: Contribute to Open Source Projects
 - ⚡ Fun fact: I love to play sports - [Why?][youtubevideo]
 
+[youtubeVideo]:[https://www.youtube.com/watch?v=qzetrxhamlE]
+
 ### Connect with me:
 
 [<img align="left" alt="pinsandneedles.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[website]:[https://pinsandneedles.ml]
+[youtube]:[https://www.youtube.com/channel/UCL14K2mA29uCUKUl7OqUQgA]
+[linkedin]:[https://www.linkedin.com/in/pin-sern-fang-689539191/]
+[instagram]:[https://www.instagram.com/colourincrayons/]
 
 <br />
 
@@ -37,9 +44,3 @@
 ### GitHub Stats
 
 <img align="left" alt="fangpinsern's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fangpinsern&show_icons=true&hide_border=true" />
-
-[youtubeVideo]:[https://www.youtube.com/watch?v=qzetrxhamlE]
-[website]:[https://pinsandneedles.ml]
-[youtube]:[https://www.youtube.com/channel/UCL14K2mA29uCUKUl7OqUQgA]
-[linkedin]:[https://www.linkedin.com/in/pin-sern-fang-689539191/]
-[instagram]:[https://www.instagram.com/colourincrayons/]
