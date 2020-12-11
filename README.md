@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+# Hi there, I'm Pin Sern 👋
 
 ## I'm a Student, Developer and Problem Solver
 
