@@ -36,7 +36,9 @@
 
 ### GitHub Stats
 
-<img align="left" alt="fangpinsern's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fangpinsern&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="fangpinsern's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fangpinsern&show_icons=true&hide_border=true" /> -->
+[![fangpinsern's GitHub stats](https://github-readme-stats.vercel.app/api?username=fangpinsern)](https://github.com/fangpinsern/github-readme-stats)
+
 
 [youtubevideo]: https://www.youtube.com/watch?v=qzetrxhamlE
 [website]: https://pinsandneedles.ml
