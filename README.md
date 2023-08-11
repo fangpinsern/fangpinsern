@@ -1,10 +1,9 @@
 # Hi there, I'm Pin Sern 👋
 
-## I'm a Student, Developer and Problem Solver
+## I'm a Developer and Problem Solver
 
-- I’m currently learning Docker and Kubernetes
-- 🥅 2020 Goals: Gain new knowledge of different technologies
-- 🥅 2021 Goals: Contribute to Open Source Projects
+- I’m currently working at Shopee as a Software Engineer
+- 🥅 2023 Goals: Launch A Food Seach Engine
 - ⚡ Fun fact: I love to play sports - [Why?][youtubevideo]
 
 ### Connect with me:
